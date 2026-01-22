@@ -7,17 +7,27 @@ Welcome to my GitHub portfolio! I'm a data analyst passionate about transforming
 ## 🚀 Technical Skills & Tools
 
 - **SQL** – Advanced queries, window functions, subqueries, filtering logic  
-- **Python** – pandas, matplotlib, seaborn for EDA and visualization  
+- **Python** – numpy, pandas, matplotlib, seaborn
 - **Power BI** – Interactive dashboards with KPIs, slicers, and performance comparisons  
 - **Excel** – Data cleaning, pivot tables, slicers, custom formulas, dashboarding  
 - **Tableau** – Customer segmentation dashboards, RFM analysis, interactivity  
 - **Data Storytelling** – Insights, business impact summaries, visual narratives  
-- **Professional Presentation** – GitHub repositories with structured documentation and visual previews
-
+- **Professional Presentation** – Microsoft PowerPoint, Google Slides GitHub repositories with structured documentation and visual previews
+- **AI TOOLS** - ChatGPT, Gemini, Copilot, Grok
+- **Microsoft Azure Cloud** - Azure SQL Database, Blob Storage – basics
+- **Github** - Version Control, GitHub repositories with structured documentation and visual previews
 ---
 
 ## 📂 Featured Projects
 
+### 🔸 [Retail_and_Marketing_Analytics_End_to_End_Python_PowerBI](https://github.com/Deepanshu985/Retail_and_Marketing_Analytics_End_to_End_Python_PowerBI)
+> End-to-end retail analytics project focused on understanding sales performance, customer behavior, and business KPIs using Python and Power BI.
+The project covers data loading, cleaning, exploratory analysis, RFM-based customer segmentation, KPI calculation, and dashboard creation to support data-driven business decisions.
+Tools: Python, Power BI
+### 🔸 [vendor-performance-analysis-sql-python-powerbi](https://github.com/Deepanshu985/vendor-performance-analysis-sql-python-powerbi)
+> Business-focused analytics project analyzing vendor purchasing, sales contribution, freight cost, and profitability to evaluate vendor performance.
+SQL and Python were used to aggregate transactional data, compare purchase vs sales metrics, and identify high-value vendors for better procurement and cost optimization decisions.
+Tools: Python, SQL, Power BI
 ### 🔸 [Target Ltd – Performance Analysis](https://github.com/Deepanshu985/Target_LTD_Performance_Analysis)
 > SQL + Python project analyzing 100k+ orders, delivery delays, and review trends  
 Tools: SQL, Python (pandas,numpy,matplotlib, seaborn)
